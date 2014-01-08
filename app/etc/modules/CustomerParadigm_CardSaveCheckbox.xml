@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CustomerParadigm_CardSaveCheckbox>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Payment />
+                <SFC_AuthnetToken />
+            </depends>
+        </CustomerParadigm_CardSaveCheckbox>
+    </modules>
+</config>
